@@ -1,6 +1,6 @@
 # Mood-Based Book Recommendation System
 
-This project recommends books based on the user's mood using machine learning techniques and the Goodreads dataset.
+This project recommends books based on the user's selected mood using machine learning.
 
 ## Technologies Used
 - Python

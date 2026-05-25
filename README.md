@@ -15,6 +15,5 @@ This project recommends books based on the user's mood using machine learning te
 - Collaborative filtering
 
 ## Dataset
-Goodreads Books Dataset
-Best Books dataset
+Book Recommendation Dataset, Goodreads Best Books Dataset
 
